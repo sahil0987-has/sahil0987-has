@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahil0987-has
+- 👋 Hi, I’m @sahil0987
 - 👀 I’m interested in machin learning and data science
 - 🌱 I’m currently learning machin learning and competative programming
 - 💞️ I’m looking to collaborate on data science and machine learning projects
